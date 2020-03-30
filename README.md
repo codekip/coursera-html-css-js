@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my module 2 coding assignment
 
-You can use the [editor on GitHub](https://github.com/codekip/coursera-html-css-js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codekip/coursera-html-css-js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Review criteria
+ - Does the implementation use a CSS or Javascript framework (not allowed)?
+ - Does the implementation use inline CSS (not allowed) or reference a CSS file instead?
+ - Does the implemented layout conform to the provided mockup illustrations for desktop, tablet, and mobile views?
+ - Does the section title region always appear in the top right corner of the section region, no matter what view is being displayed (desktop, tablet, or mobile)?
+ - Is there consistent horizontal spacing between the section regions and browser edges (especially in the desktop and tablet views) and consistent vertical spacing between the regions (especially in the tablet and mobile views)?
+ - Is there padding separating the dummy text from the edges of the section? Is the dummy text pushed down such that it doesn’t overlap the section title region?
+ - Are the borders and colors implemented according the stated requirements?
